@@ -5,4 +5,4 @@
 특별한 날, 소중한 시간을 함께해주셔서 감사드립니다.
 
 
-![Main](./img/main/2.jpg)
+![Main](./img/main/16.jpg)
