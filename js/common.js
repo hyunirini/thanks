@@ -75,6 +75,7 @@ function setText(){
         $("#mode-from").html('<span class="relation mr-5">혼주 </span>\n' +
             '<div style="display: -webkit-inline-box;" class="name-block">\n' +
             '<img style="width: 10px" src="./img/main/flower.png"></i>'+
+            '                 <div class="txt-groom-father"></div>\n' +
             '        </div>\n' +
             '        <span class="separator">·</span>\n' +
             '        <div class="name-block">\n' +
